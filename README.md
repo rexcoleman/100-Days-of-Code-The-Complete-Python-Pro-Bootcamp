@@ -3,6 +3,7 @@
 
 - Day 14 - Skills Demonstrated: Chunking Down a Problem into Manageable Pieces
 - Days 15, 16 - Skills Demonstrated: PyCharm Setup, Object Oriented Programming
+- Days 20, 21 & 24 - Skills Demonstrated: Object Oriented Programming, Class Inheritance, Slicing, Working with Files & Directories, Turtle Module
 - Day 25 - Skills Demonstrated: Working with CSV Files and Analyzing Data with Pandas
 - Day 26 - Skills Demonstrated: List & Dictionary Comprehension
 - Day 27 - Skills Demonstrated: Graphical User Interfaces w/ Tkinter, Default Arguements, *Args, **Kwargs
