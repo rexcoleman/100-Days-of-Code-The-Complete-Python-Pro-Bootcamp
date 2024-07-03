@@ -1,6 +1,6 @@
-# Executive Summary
+# 100 Days of Code: The Complete Python Pro Bootcamp
 
-## 100 Days of Code: The Complete Python Pro Bootcamp
+## Executive Summary
 
 This repository is a comprehensive showcase of my journey through the "100 Days of Code: The Complete Python Pro Bootcamp" by Angela Yu. It demonstrates a broad array of foundational Python programming skills, highlighting my persistence, consistency, and passion for learning and mastering Python.
 
@@ -18,6 +18,21 @@ Throughout this intensive program, I have tackled various projects that encompas
 - **Graphical User Interfaces (GUIs)**: Tkinter for Building GUIs.
 - **Automation and Web Scraping**: Selenium, Beautiful Soup.
 - **Data Analysis**: Using Pandas for Data Manipulation, List & Dictionary Comprehensions.
+
+This structured journey not only illustrates my proficiency in Python but also my ability to consistently apply these skills in practical scenarios, demonstrating my readiness for complex problem-solving and software development tasks in a professional setting.
+
+## Showcased Projects:
+
+### [Project 1: Blog Webapp Capstone Project](https://github.com/rexcoleman/Singularity-Cybersecurity-Blog-Capstone-Project)
+Explore my Blog Webapp Capstone Project from Angela Yu's 100 Days of Code Bootcamp! Dive into a full-stack web application showcasing advanced skills in Flask, Bootstrap, PostgreSQL, and more. Witness how modern web development practices create a dynamic, secure, and user-friendly platform.
+
+### [Project 2: Days 39, 40 Flight-Club-Capstone-Project-Object-Oriented-Programming-API-Requests](https://github.com/rexcoleman/100-Days-of-Code-The-Complete-Python-Pro-Bootcamp/tree/main/projects/Days_39_40_Flight-Club-Capstone-Project-Object-Oriented-Programming-API-Requests)
+Description: App that searches the web for flight prices and compares data to the prices listed in a google sheet. If it finds a better price it sends notifications by both text and email. Skills Demonstrated: Object Oriented Programming, API Requests.
+
+### [Project 3: Day 53 Web-Scraping-Capstone-Project-Data-Entry-Automation](https://github.com/rexcoleman/100-Days-of-Code-The-Complete-Python-Pro-Bootcamp/tree/main/projects/Day_53_Web_Scraping_Capstone_Project_Data_Entry_Automation)
+Skills Demonstrated: Use Beautiful Soup to Scrape Rental Price Data from Zillow Website and Selenium Webdriver to Automate Data Entry Into a Google Form and Sheet.
+
+## Full Project List:
 
 - [Day 1 Band-Name-Generator](https://github.com/rexcoleman/100-Days-of-Code-The-Complete-Python-Pro-Bootcamp/tree/main/projects/Day_1_Band_Name_Generator) - Skills Demonstrated: Printing, Commenting, Debugging, String Manipulation, Variables
 - [Day 2 Tip-Calculator](https://github.com/rexcoleman/100-Days-of-Code-The-Complete-Python-Pro-Bootcamp/tree/main/projects/Day_2_Tip_Calculator) - Skills Demonstrated: Data Types, Numbers, Operations, Type Conversion, f-Strings
@@ -68,9 +83,3 @@ Throughout this intensive program, I have tackled various projects that encompas
 - [Day 64 Top_Movies](https://github.com/rexcoleman/100-Days-of-Code-The-Complete-Python-Pro-Bootcamp/tree/main/projects/Day_64_Top_Movies) - Description: Website that Compiles a List of Favorite Movies - Skills Demonstrated: Flask/WTForms/SQLite/SQLAlchemy
 - [Day 66 Cafe_Restful_API](https://github.com/rexcoleman/100-Days-of-Code-The-Complete-Python-Pro-Bootcamp/tree/main/projects/Day_66_Cafe_Restful_API) - Skills Demonstrated: A Restful API for Local Cafe Data, Postman for Testing
 - [Day 68 Flask_Authentication](https://github.com/rexcoleman/100-Days-of-Code-The-Complete-Python-Pro-Bootcamp/tree/main/projects/Day_68_Flask_Authentication) - Description: Website that Requires Authentication to Access a File - Skills Demonstrated: Flask, Authentication, Password Hashing and Salting
-
-
-
-Consider Pinning: 
-- Days 39, 40 Flight-Club-Capstone-Project-Object-Oriented-Programming-API-Requests - Description: App that searches the web for flight prices and compares data to the prices listed in a google sheet. If it finds a better price it sends notifications by both text and email. Skills Demonstrated: Object Oriented Programming, API Requests
-- Day 53 Web-Scraping-Capstone-Project-Data-Entry-Automation - Skills Demonstrated: Use Beautiful Soup to Scrape Rental Price Data from Zillow Website and Selenium Webdriver to Automate Data Entry Into a Google Form and Sheet
