@@ -54,3 +54,4 @@
 
 Consider Pinning: 
 - Days 39, 40 Flight-Club-Capstone-Project-Object-Oriented-Programming-API-Requests - Description: App that searches the web for flight prices and compares data to the prices listed in a google sheet. If it finds a better price it sends notifications by both text and email. Skills Demonstrated: Object Oriented Programming, API Requests
+- Day 53 Web-Scraping-Capstone-Project-Data-Entry-Automation - Skills Demonstrated: Use Beautiful Soup to Scrape Rental Price Data from Zillow Website and Selenium Webdriver to Automate Data Entry Into a Google Form and Sheet
