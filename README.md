@@ -3,6 +3,7 @@
 
 - Day 3 Treasure_Island
 - Day 7 Hangman - Skills Demonstrated: For & While Loops, If/Else, Lists, Strings, Range, Modules
+- Day 8 Caesar-Cipher - Skills Demonstrated - Functions, Inputs, Arguments, Parameters
 - Day 9 Blind_Auction - Skills Demonstrated: Dictionaries & Nesting
 - Day 14 Higher_Lower - Skills Demonstrated: Chunking Down a Problem into Manageable Pieces
 - Days 15, 16 Coffee_Machine - Skills Demonstrated: PyCharm Setup, Object Oriented Programming
