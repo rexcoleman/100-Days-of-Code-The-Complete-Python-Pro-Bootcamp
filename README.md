@@ -8,6 +8,7 @@
 - Day 14 Higher_Lower - Skills Demonstrated: Chunking Down a Problem into Manageable Pieces
 - Days 15, 16 Coffee_Machine - Skills Demonstrated: PyCharm Setup, Object Oriented Programming
 - Day 17 Quiz_Game - Skills Demonstrated: Creating Classes
+- Day 18 Hirst-Painting - Skills Demonstrated: Turtle Graphics, Tuples, Importing, Modules
 - Day 19 Turtle_Race - Skills Demonstrated: Event Listeners, State & Multiple Instances, Turtle Graphics
 - Days 20, 21 & 24 Snake_Game - Skills Demonstrated: Object Oriented Programming, Class Inheritance, Slicing, Working with Files & Directories, Turtle Module
 - Day 23 Turtle_Crossing - Skills Demonstrated: Create Classes, Inherit Classes, Use Objects, Turtle Coordinate System, Turtle Game Engine
