@@ -23,7 +23,7 @@ This structured journey not only illustrates my proficiency in Python but also m
 
 ## Showcased Projects:
 
-### [Project 1: Blog Webapp Capstone Project](https://github.com/rexcoleman/Singularity-Cybersecurity-Blog-Capstone-Project)
+### [Project 1: Days 1 - 70 Blog Webapp Capstone Project](https://github.com/rexcoleman/Singularity-Cybersecurity-Blog-Capstone-Project)
 Explore my Blog Webapp Capstone Project from Angela Yu's 100 Days of Code Bootcamp! Dive into a full-stack web application showcasing advanced skills in Flask, Bootstrap, PostgreSQL, and more. Witness how modern web development practices create a dynamic, secure, and user-friendly platform.
 
 ### [Project 2: Days 39, 40 Flight-Club-Capstone-Project-Object-Oriented-Programming-API-Requests](https://github.com/rexcoleman/100-Days-of-Code-The-Complete-Python-Pro-Bootcamp/tree/main/projects/Days_39_40_Flight-Club-Capstone-Project-Object-Oriented-Programming-API-Requests)
