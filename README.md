@@ -14,7 +14,7 @@
 - Day 26 NATO_Alphabet - Skills Demonstrated: List & Dictionary Comprehension
 - Day 27 Unit_Converter - Skills Demonstrated: Graphical User Interfaces w/ Tkinter, Default Arguements, *Args, **Kwargs
 - Days 54, 55 - Skills Demonstrated: Advanced Decorators, Web Development with Flask, Rendering HTML, Parsing URLs, Flask Debugging, Command Line
-- Day 58 - Skills Demonstrated: Tinder for Dogs Using Bootstrap
+- Day 58 TinDog_Bootstrap - Skills Demonstrated: Tinder for Dogs Using Bootstrap
 - Day 62 - Skills Demonstrated: Website that uses (Flask, WTForms, Bootstrap and CSF) to List Local Cafes and Rates Them by the Qualities that Matter to Digital Nomads (Coffee, Power, Wifi)
 - Day 63 - Description: Website that Lists Personal Reading Library - Skills Demonstrated: Adding a Database into a Website with SQLAlchemy with Create, Read, Update and Delete Operations.
 - Day 64 - Description: Website that Compiles a List of Favorite Movies - Skills Demonstrated: Flask/WTForms/SQLite/SQLAlchemy
