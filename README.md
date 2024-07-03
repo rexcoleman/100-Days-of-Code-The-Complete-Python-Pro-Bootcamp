@@ -8,3 +8,4 @@
 
 - Day 64 - Description: Website that Compiles a List of Favorite Movies - Skills Demonstrated: Flask/WTForms/SQLite/SQLAlchemy
 - Day 66 - Skills Demonstrated: A Restful API for Local Cafe Data, Postman for Testing
+- Day 68 - Description: Website that Requires Authentication to Access a File - Skills Demonstrated: Flask, Authentication, Password Hashing and Salting
