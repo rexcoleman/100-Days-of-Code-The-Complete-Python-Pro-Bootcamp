@@ -15,6 +15,7 @@
 - Day 26 NATO_Alphabet - Skills Demonstrated: List & Dictionary Comprehension
 - Day 27 Unit_Converter - Skills Demonstrated: Graphical User Interfaces w/ Tkinter, Default Arguements, *Args, **Kwargs
 - Days 5, 29, 30 Password-Manager - Skills Demonstrated - Errors and Exception Handling, Saving JSON Data, Graphical User Interfaces w/ Tkinter, For Loops, Range, Code Blocks
+- Day 33 International-Space-Station-Tracker - Skills Demonstrated: Application Programming Interfaces (APIs), SMTP, Environment Variables, International Space Station API
 - Day 34 Quizzler-App - Skills Demonstrated: API Requests & Parameters
 - Day 35 Rain-Alert-App - Skills Demonstrated: API Keys, Authentication, Environment Variables, Sending SMS via Twilio, OpenWeatherMap API
 - Day 36 Stock-News-Alert-App - Skills Demonstrated: Secure API Requests (Get Request Stock Data From Alpha Advantage API, Get Request News Data From News API, Send Text Via Twilio API)
