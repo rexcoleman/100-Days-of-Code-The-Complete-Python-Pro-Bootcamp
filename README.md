@@ -34,6 +34,7 @@
 - Day 37 Habit-Tracker - Skills Demonstrated: API Advanced Authentication and POST / PUT / DELETE Requests
 - Day 38 Workout-Tracking - Skills Demonstrated: API Post Request to Leverage User Input and AI Exercise Tracking Tool - Nutritionix - to Generate JSON Data, API Post Request to Update Google Sheet -Sheety.
 - Day 41 Birthday-Invite-Project - Skills Demonstrated: HTML Boilerplate
+- Day 42 CSS-Selectors - Skills Demonstrated: CSS Selectors
 - Day 43 Adding-CSS - Skills Demonstrated: Adding CSS (Inline, Internal, External)
 - Day 44 Motivation-Meme-Project - Skills Demonstrated: CSS Fundamentals
 - Day 45 Top-100-Movies - Skills Demonstrated: Using Web Scraping With Beautiful Soup, List Slicing, List Comprehension, and Local File Writing to Create a Top 100 List of Movies to Watch
