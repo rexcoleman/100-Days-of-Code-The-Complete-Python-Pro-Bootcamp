@@ -5,6 +5,7 @@
 - Day 25 - Skills Demonstrated: Working with CSV Files and Analyzing Data with Pandas
 - Day 26 - Skills Demonstrated: List & Dictionary Comprehension
 - Day 27 - Skills Demonstrated: Graphical User Interfaces w/ Tkinter, Default Arguements, *Args, **Kwargs
+- Day 62 - Skills Demonstrated: Website that uses (Flask, WTForms, Bootstrap and CSF) to List Local Cafes and Rates Them by the Qualities that Matter to Digital Nomads (Coffee, Power, Wifi)
 - Day 63 - Description: Website that Lists Personal Reading Library - Skills Demonstrated: Adding a Database into a Website with SQLAlchemy with Create, Read, Update and Delete Operations.
 - Day 64 - Description: Website that Compiles a List of Favorite Movies - Skills Demonstrated: Flask/WTForms/SQLite/SQLAlchemy
 - Day 66 - Skills Demonstrated: A Restful API for Local Cafe Data, Postman for Testing
