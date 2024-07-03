@@ -2,6 +2,7 @@
 
 
 - Day 7 - Skills Demonstrated - For & While Loops, If/Else, Lists, Strings, Range, Modules
+- Day 9 - Skills Demonstrated - Dictionaries & Nesting
 - Day 14 - Skills Demonstrated: Chunking Down a Problem into Manageable Pieces
 - Days 15, 16 - Skills Demonstrated: PyCharm Setup, Object Oriented Programming
 - Day 17 - Skills Demonstrated: Creating Classes
