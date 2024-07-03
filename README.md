@@ -4,6 +4,7 @@
 - Day 14 - Skills Demonstrated: Chunking Down a Problem into Manageable Pieces
 - Days 15, 16 - Skills Demonstrated: PyCharm Setup, Object Oriented Programming
 - Day 17 - Skills Demonstrated: Creating Classes
+- Day 19 - Skills Demonstrated: Event Listeners, State & Multiple Instances, Turtle Graphics
 - Days 20, 21 & 24 - Skills Demonstrated: Object Oriented Programming, Class Inheritance, Slicing, Working with Files & Directories, Turtle Module
 - Day 23 - Skills Demonstrated: Create Classes, Inherit Classes, Use Objects, Turtle Coordinate System, Turtle Game Engine
 - Day 25 - Skills Demonstrated: Working with CSV Files and Analyzing Data with Pandas
