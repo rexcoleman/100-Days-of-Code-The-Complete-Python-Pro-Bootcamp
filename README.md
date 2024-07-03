@@ -14,6 +14,7 @@
 - Day 25 US_States_Game - Skills Demonstrated: Working with CSV Files and Analyzing Data with Pandas
 - Day 26 NATO_Alphabet - Skills Demonstrated: List & Dictionary Comprehension
 - Day 27 Unit_Converter - Skills Demonstrated: Graphical User Interfaces w/ Tkinter, Default Arguements, *Args, **Kwargs
+- Days 5, 29, 30 Password-Manager - Skills Demonstrated - Errors and Exception Handling, Saving JSON Data, Graphical User Interfaces w/ Tkinter, For Loops, Range, Code Blocks
 - Day 42 Birthday-Invite-Project - Skills Demonstrated: HTML Boilerplate
 - Day 43 Adding-CSS - Skills Demonstrated: Adding CSS (Inline, Internal, External)
 - Day 44 Motivation-Meme-Project - Skills Demonstrated: CSS Fundamentals
