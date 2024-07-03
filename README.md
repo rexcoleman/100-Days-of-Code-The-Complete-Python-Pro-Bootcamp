@@ -13,7 +13,7 @@ Explore my Blog Webapp Capstone Project from Angela Yu's 100 Days of Code Bootca
 
 ![Web App](img/singularity_cybersecurity_blog_web_app.png)
 
-*Figure 1: Surveillance privacy bias vector - This image illustrates the surveillance privacy bias vector and how serveillance related terms in blue tend to be above the line and privacy related terms in orange tend to be below the line.*
+*Figure 1: [Singularity Cybersecurity web app](https://rex-coleman-blog-01b248947442.herokuapp.com/).*
 
 ### [Project 2: Days 39, 40 Flight-Club-Capstone-Project-Object-Oriented-Programming-API-Requests](https://github.com/rexcoleman/100-Days-of-Code-The-Complete-Python-Pro-Bootcamp/tree/main/projects/Days_39_40_Flight-Club-Capstone-Project-Object-Oriented-Programming-API-Requests)
 Description: App that searches the web for flight prices and compares data to the prices listed in a google sheet. If it finds a better price it sends notifications by both text and email. Skills Demonstrated: Object Oriented Programming, API Requests.
