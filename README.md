@@ -2,6 +2,7 @@
 
 
 - Day 3 Treasure_Island
+- Day 4 Rock-Paper-Scissors - Skills Demonstrated: Randomization, Lists
 - Day 7 Hangman - Skills Demonstrated: For & While Loops, If/Else, Lists, Strings, Range, Modules
 - Day 8 Caesar-Cipher - Skills Demonstrated - Functions, Inputs, Arguments, Parameters
 - Day 9 Blind_Auction - Skills Demonstrated: Dictionaries & Nesting
