@@ -2,7 +2,7 @@
 
 
 - Day 3 Treasure_Island
-- Day 7 - Skills Demonstrated: For & While Loops, If/Else, Lists, Strings, Range, Modules
+- Day 7 Hangman - Skills Demonstrated: For & While Loops, If/Else, Lists, Strings, Range, Modules
 - Day 9 Higher_Lower - Skills Demonstrated: Dictionaries & Nesting
 - Day 14 - Skills Demonstrated: Chunking Down a Problem into Manageable Pieces
 - Days 15, 16 - Skills Demonstrated: PyCharm Setup, Object Oriented Programming
