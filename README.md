@@ -2,7 +2,7 @@
 
 - [Day 1 Band-Name-Generator](https://github.com/rexcoleman/100-Days-of-Code-The-Complete-Python-Pro-Bootcamp/tree/main/projects/Day_1_Band_Name_Generator) - Skills Demonstrated: Printing, Commenting, Debugging, String Manipulation, Variables
 - [Day 2 Tip-Calculator](https://github.com/rexcoleman/100-Days-of-Code-The-Complete-Python-Pro-Bootcamp/tree/main/projects/Day_2_Tip_Calculator) - Skills Demonstrated: Data Types, Numbers, Operations, Type Conversion, f-Strings
-- [Day 3 Treasure-Island](https://github.com/rexcoleman/100-Days-of-Code-The-Complete-Python-Pro-Bootcamp/tree/main/projects/Day_3_Treasure_Island)
+- [Day 3 Treasure-Island](https://github.com/rexcoleman/100-Days-of-Code-The-Complete-Python-Pro-Bootcamp/tree/main/projects/Day_3_Treasure_Island) - Skills Demonstrated: Conditional Statements, Logidcal Operators, Code Blocks and Scope
 - [Day 4 Rock-Paper-Scissors](https://github.com/rexcoleman/100-Days-of-Code-The-Complete-Python-Pro-Bootcamp/tree/main/projects/Day_4_Rock_Paper_Scissors) - Skills Demonstrated: Randomization, Lists
 - [Day 7 Hangman](https://github.com/rexcoleman/100-Days-of-Code-The-Complete-Python-Pro-Bootcamp/tree/main/projects/Day_7_Hangman) - Skills Demonstrated: For & While Loops, If/Else, Lists, Strings, Range, Modules
 - [Day 8 Caesar-Cipher](https://github.com/rexcoleman/100-Days-of-Code-The-Complete-Python-Pro-Bootcamp/tree/main/projects/Day_8_Caesar_Cipher) - Skills Demonstrated: Functions, Inputs, Arguments, Parameters
