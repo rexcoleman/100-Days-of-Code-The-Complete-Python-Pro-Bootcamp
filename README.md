@@ -11,7 +11,7 @@
 - [Day 11 Blackjack](https://github.com/rexcoleman/100-Days-of-Code-The-Complete-Python-Pro-Bootcamp/tree/main/projects/Day_11_Blackjack) - Skills Demonstrated: Review of Skills From Days 1 - 10
 - [Day 12 Guess-The-Number](https://github.com/rexcoleman/100-Days-of-Code-The-Complete-Python-Pro-Bootcamp/tree/main/projects/Day_12_Guess_The_Number) - Skills Demonstrated: Scope
 - [Day 14 Higher_Lower](https://github.com/rexcoleman/100-Days-of-Code-The-Complete-Python-Pro-Bootcamp/tree/main/projects/Day_14_Higher_Lower) - Skills Demonstrated: Chunking Down a Problem into Manageable Pieces
-- [Days 15, 16 Coffee-Machine](https://github.com/rexcoleman/100-Days-of-Code-The-Complete-Python-Pro-Bootcamp/tree/main/projects/Day_15_16_Coffee_Machine) - Skills Demonstrated: PyCharm Setup, Object Oriented Programming
+- [Days 15, 16 Coffee-Machine](https://github.com/rexcoleman/100-Days-of-Code-The-Complete-Python-Pro-Bootcamp/tree/main/projects/Days_15_16_Coffee_Machine) - Skills Demonstrated: PyCharm Setup, Object Oriented Programming
 - [Day 17 Quiz-Game](https://github.com/rexcoleman/100-Days-of-Code-The-Complete-Python-Pro-Bootcamp/tree/main/projects/Day_17_Quiz_Game) - Skills Demonstrated: Creating Classes
 - [Day 18 Hirst-Painting](https://github.com/rexcoleman/100-Days-of-Code-The-Complete-Python-Pro-Bootcamp/tree/main/projects/Day_18_Hirst_Painting) - Skills Demonstrated: Turtle Graphics, Tuples, Importing, Modules
 - [Day 19 Turtle-Race](https://github.com/rexcoleman/100-Days-of-Code-The-Complete-Python-Pro-Bootcamp/tree/main/projects/Day_19_Turtle_Race) - Skills Demonstrated: Event Listeners, State & Multiple Instances, Turtle Graphics
