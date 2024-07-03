@@ -1,6 +1,7 @@
 # 100 Days of Code: The Complete Python Pro Bootcamp
 
 
+- Day 3 Treasure_Island
 - Day 7 - Skills Demonstrated: For & While Loops, If/Else, Lists, Strings, Range, Modules
 - Day 9 Higher_Lower - Skills Demonstrated: Dictionaries & Nesting
 - Day 14 - Skills Demonstrated: Chunking Down a Problem into Manageable Pieces
