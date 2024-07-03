@@ -15,6 +15,7 @@
 - Day 26 NATO_Alphabet - Skills Demonstrated: List & Dictionary Comprehension
 - Day 27 Unit_Converter - Skills Demonstrated: Graphical User Interfaces w/ Tkinter, Default Arguements, *Args, **Kwargs
 - Days 5, 29, 30 Password-Manager - Skills Demonstrated - Errors and Exception Handling, Saving JSON Data, Graphical User Interfaces w/ Tkinter, For Loops, Range, Code Blocks
+- Day 38 Workout-Tracking - Skills Demonstrated: API Post Request to Leverage User Input and AI Exercise Tracking Tool - Nutritionix - to Generate JSON Data, API Post Request to Update Google Sheet -Sheety.
 - Day 42 Birthday-Invite-Project - Skills Demonstrated: HTML Boilerplate
 - Day 43 Adding-CSS - Skills Demonstrated: Adding CSS (Inline, Internal, External)
 - Day 44 Motivation-Meme-Project - Skills Demonstrated: CSS Fundamentals
