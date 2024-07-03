@@ -3,7 +3,7 @@
 
 
 
-Day 26 - Skills Demonstrated: List & Dictionary Comprehension
-Day 27 - Skills Demonstrated: Graphical User Interfaces w/ Tkinter, Default Arguements, *Args, **Kwargs
+- Day 26 - Skills Demonstrated: List & Dictionary Comprehension
+- Day 27 - Skills Demonstrated: Graphical User Interfaces w/ Tkinter, Default Arguements, *Args, **Kwargs
 
 Day 66 - Skills Demonstrated: A Restful API for Local Cafe Data, Postman for Testing
