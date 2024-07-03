@@ -6,6 +6,7 @@
 - Day 8 Caesar-Cipher - Skills Demonstrated - Functions, Inputs, Arguments, Parameters
 - Day 9 Blind_Auction - Skills Demonstrated: Dictionaries & Nesting
 - Day 10 Calculator - Skills Demonstrated - Functions with Outputs
+- Day 11 Blackjack - Skills Demonstrated: Review of Skills From Days 1 - 10
 - Day 14 Higher_Lower - Skills Demonstrated: Chunking Down a Problem into Manageable Pieces
 - Days 15, 16 Coffee_Machine - Skills Demonstrated: PyCharm Setup, Object Oriented Programming
 - Day 17 Quiz_Game - Skills Demonstrated: Creating Classes
