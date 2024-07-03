@@ -15,6 +15,7 @@
 - Day 26 NATO_Alphabet - Skills Demonstrated: List & Dictionary Comprehension
 - Day 27 Unit_Converter - Skills Demonstrated: Graphical User Interfaces w/ Tkinter, Default Arguements, *Args, **Kwargs
 - Days 5, 29, 30 Password-Manager - Skills Demonstrated - Errors and Exception Handling, Saving JSON Data, Graphical User Interfaces w/ Tkinter, For Loops, Range, Code Blocks
+- Day 35 Rain-Alert-App - Skills Demonstrated: API Keys, Authentication, Environment Variables, Sending SMS via Twilio, OpenWeatherMap API
 - Day 36 Stock-News-Alert-App - Skills Demonstrated: Secure API Requests (Get Request Stock Data From Alpha Advantage API, Get Request News Data From News API, Send Text Via Twilio API)
 - Day 37 Habit-Tracker - Skills Demonstrated: API Advanced Authentication and POST / PUT / DELETE Requests
 - Day 38 Workout-Tracking - Skills Demonstrated: API Post Request to Leverage User Input and AI Exercise Tracking Tool - Nutritionix - to Generate JSON Data, API Post Request to Update Google Sheet -Sheety.
