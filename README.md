@@ -1,6 +1,7 @@
 # 100 Days of Code: The Complete Python Pro Bootcamp
 
 
+- Day 1 Band-Name-Generator - Skills Demonstrated: Printing, Commenting, Debugging, String Manipulation, Variables
 - Day 2 Tip-Calculator - Skills Demonstrated - Data Types, Numbers, Operations, Type Conversion, f-Strings
 - Day 3 Treasure_Island
 - Day 4 Rock-Paper-Scissors - Skills Demonstrated: Randomization, Lists
