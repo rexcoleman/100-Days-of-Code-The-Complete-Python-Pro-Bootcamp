@@ -33,6 +33,7 @@
 - Day 36 Stock-News-Alert-App - Skills Demonstrated: Secure API Requests (Get Request Stock Data From Alpha Advantage API, Get Request News Data From News API, Send Text Via Twilio API)
 - Day 37 Habit-Tracker - Skills Demonstrated: API Advanced Authentication and POST / PUT / DELETE Requests
 - Day 38 Workout-Tracking - Skills Demonstrated: API Post Request to Leverage User Input and AI Exercise Tracking Tool - Nutritionix - to Generate JSON Data, API Post Request to Update Google Sheet -Sheety.
+- Days 39, 40 Flight-Club-Capstone-Project-Object-Oriented-Programming-API-Requests - Description: App that searches the web for flight prices and compares data to the prices listed in a google sheet. If it finds a better price it sends notifications by both text and email. Skills Demonstrated: Object Oriented Programming, API Requests
 - Day 41 Birthday-Invite-Project - Skills Demonstrated: HTML Boilerplate
 - Day 42 CSS-Selectors - Skills Demonstrated: CSS Selectors
 - Day 43 Adding-CSS - Skills Demonstrated: Adding CSS (Inline, Internal, External)
