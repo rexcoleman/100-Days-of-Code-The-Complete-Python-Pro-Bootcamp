@@ -9,11 +9,11 @@ Throughout this intensive program, I have tackled various projects that encompas
 ## Showcased Projects:
 
 ### [Project 1: Days 1 - 70 Blog Webapp Capstone Project](https://github.com/rexcoleman/Singularity-Cybersecurity-Blog-Capstone-Project)
-Explore my Blog Webapp Capstone Project from Angela Yu's 100 Days of Code Bootcamp! Dive into a full-stack web application showcasing advanced skills in Flask, Bootstrap, PostgreSQL, and more. Witness how modern web development practices create a dynamic, secure, and user-friendly platform.
+This project is a full-stack web application developed as part of Angela Yu's 100 Days of Code Bootcamp. It demonstrates the use of Flask, Bootstrap, PostgreSQL, and other technologies to create a functional and user-friendly blog web app.*
 
 ![Web App](img/singularity_cybersecurity_blog_web_app.png)
 
-*Figure 1: [Singularity Cybersecurity web app](https://rex-coleman-blog-01b248947442.herokuapp.com/).*
+*Figure 1: [Link to Singularity Cybersecurity Web App](https://rex-coleman-blog-01b248947442.herokuapp.com/).*
 
 ### [Project 2: Days 39, 40 Flight-Club-Capstone-Project-Object-Oriented-Programming-API-Requests](https://github.com/rexcoleman/100-Days-of-Code-The-Complete-Python-Pro-Bootcamp/tree/main/projects/Days_39_40_Flight-Club-Capstone-Project-Object-Oriented-Programming-API-Requests)
 Description: App that searches the web for flight prices and compares data to the prices listed in a google sheet. If it finds a better price it sends notifications by both text and email. Skills Demonstrated: Object Oriented Programming, API Requests.
